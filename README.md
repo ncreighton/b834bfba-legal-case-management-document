@@ -1,2 +1,59 @@
-# b834bfba-legal-case-management-document
-Legal Case Management Document Generator - A professional WordPress plugin designed for Legal Compliance professionals. Streamline your operations with automated workflows, real-time dashboards, and seamless integrations. Features include data management, reporting tools, notification systems, and customizable settings. Perfect for teams looking to
+=== Legal Case Management Document Generator ===
+Contributors: digitalforge
+Requires at least: 5.8
+Tested up to: 6.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+
+
+== Description ==
+
+
+
+**Features:**
+
+* Core functionality
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`
+2. Activate via WordPress admin > Plugins
+3. Configure via Settings > Legal Case Management Document Generator
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial release.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQaEX9z93o82hieM4d0u1y)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQaEX9z93o82hieM4d0u1y)
+
